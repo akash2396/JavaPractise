@@ -4,9 +4,11 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-public class Program2 {
+public class Program2 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
 		
 		Set <Integer> s = new HashSet();
@@ -23,6 +25,8 @@ public class Program2 {
 		{
 			System.out.println(it.next());
 		}
+		
+		
 	}
 
 }
